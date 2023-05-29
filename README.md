@@ -62,7 +62,7 @@ In this project, we observe various network traffic to and from Azure Virtual Ma
 
 <p>
   
-![thisismyimage]()
+![thisismyimage](https://github.com/ELIZABETHONAS/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/IMG_0091.png?raw=true)
 </p>
 <p>
  
@@ -72,7 +72,7 @@ In this project, we observe various network traffic to and from Azure Virtual Ma
 
 <p>
   
-![thisismyimage]()
+![thisismyimage](https://github.com/ELIZABETHONAS/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/IMG_0089.jpeg?raw=true)
 </p>
 <p>
  
@@ -81,7 +81,8 @@ In this project, we observe various network traffic to and from Azure Virtual Ma
 <br />
 
 <p>
-<img src="https://imgur.com/Dux33mi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![thisismyimage](https://github.com/ELIZABETHONAS/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/IMG_0090.jpeg?raw=true)
 </p>
 <p>
  
@@ -90,7 +91,8 @@ In this project, we observe various network traffic to and from Azure Virtual Ma
 <br />
 
 <p>
-<img src="https://imgur.com/Dux33mi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![thisismyimage](https://github.com/ELIZABETHONAS/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/IMG_0093.jpeg?raw=true)
 </p>
 <p>
  
@@ -99,6 +101,7 @@ In this project, we observe various network traffic to and from Azure Virtual Ma
 <br />
 
 <p>
-<img src="https://imgur.com/93V67mo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![thisismyimage]()
 </p>
 <p>
