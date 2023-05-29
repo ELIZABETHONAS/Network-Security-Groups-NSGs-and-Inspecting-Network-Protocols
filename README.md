@@ -41,7 +41,8 @@ In this project, we observe various network traffic to and from Azure Virtual Ma
 <br />
 
 <p>
-![thisismyimage]()
+
+![thisismyimage](https://github.com/ELIZABETHONAS/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/IMG_0088.jpeg?raw=true)
 </p>
 <p>
  
@@ -50,7 +51,8 @@ In this project, we observe various network traffic to and from Azure Virtual Ma
 <br />
 
 <p>
-<img src="https://imgur.com/VR1VSTk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![thisismyimage]()
 </p>
 <p>
  
