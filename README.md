@@ -93,6 +93,7 @@ In this project, we observe various network traffic to and from Azure Virtual Ma
 <p>
 
 ![thisismyimage](https://github.com/ELIZABETHONAS/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/IMG_0093.jpeg?raw=true)
+![thisismyimage]()
 </p>
 <p>
  
@@ -105,3 +106,88 @@ In this project, we observe various network traffic to and from Azure Virtual Ma
 ![thisismyimage]()
 </p>
 <p>
+  
+- Open Wireshark and filter for ICMP traffic only
+</p>
+<br />
+
+<p>
+
+![thisismyimage]()
+</p>
+<p>
+ 
+- Retrieve the private IP address of the VMTWO and attempt to ping it from within VMONE
+  - Observe ping requests and replies within WireShark
+</p>
+<br />
+
+<p>
+
+![thisismyimage]()
+</p>
+<p>
+ 
+- From The Windows 10 VM/ VMONE, open command line or PowerShell and attempt to ping a public website (such as www.google.com) and observe the traffic in WireShark
+</p>
+<br />
+
+<p>
+  
+![thisismyimage]()
+</p>
+<p>
+ 
+- Initiate a perpetual/non-stop ping from your VMONE to your Ubuntu VM
+  - Open the Network Security Group your VMTWO is using and disable incoming (inbound) ICMP traffic
+</p>
+<br />
+    
+<p>
+
+![thisismyimage]()
+</p>
+<p>
+
+- Back in VMONE, observe the ICMP traffic in WireShark and the command line Ping activity
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/Yqm96Ow.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/sCAJnlW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ 
+- Re-enable ICMP traffic for the Network Security Group VMTWO is using
+  - Back in VMONE, observe the ICMP traffic in WireShark and the command line Ping activity (should start working)
+  - Stop the ping activity
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/zCYu0dA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://imgur.com/Nvana09.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://imgur.com/6VkdcCu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+- (Observe SSH Traffic)
+  - Back in Wireshark, filter for SSH traffic only
+  - From VMONE, “SSH into” your VMTWO (via its private IP address)
+  - Type commands (username, pwd, etc) into the linux SSH connection and observe SSH traffic spam in WireShark
+  - Exit the SSH connection by typing ‘exit’ and pressing [Enter]
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/i2rTBot.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ 
+- (Observe DHCP Traffic)
+ - Back in Wireshark, filter for DHCP traffic only
+ - From VMONE, attempt to issue your VM a new IP address from the command line (ipconfig /renew)
+ - Observe the DHCP traffic appearing in WireShark
+</p>
+<br />
