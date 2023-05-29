@@ -39,3 +39,34 @@ In this project, we observe various network traffic to and from Azure Virtual Ma
 - Create two Virtual Machines for Windows 10 and Linux Ubuntu (this has been previously created VMONE and VMTWO)
 </p>
 <br />
+
+<p>
+![thisismyimage]()
+</p>
+<p>
+ 
+- Observe Your Virtual Network within Network Watcher
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/VR1VSTk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ 
+- Confirm network uniformity i.e vnet, nsg, for both VMs
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/SYWxUIp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/exw8tZ2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+ 
+- Use Remote Desktop to connect to your Windows 10 Virtual Machine
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/BKOHDza.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
