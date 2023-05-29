@@ -61,8 +61,8 @@ In this project, we observe various network traffic to and from Azure Virtual Ma
 <br />
 
 <p>
-<img src="https://imgur.com/SYWxUIp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/exw8tZ2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+  
+![thisismyimage]()
 </p>
 <p>
  
@@ -71,4 +71,34 @@ In this project, we observe various network traffic to and from Azure Virtual Ma
 <br />
 
 <p>
-<img src="https://imgur.com/BKOHDza.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![thisismyimage]()
+</p>
+<p>
+ 
+- If you have an apple laptop, you will be required to install "Microsoft Remote Desktop" via the app store
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/Dux33mi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ 
+- Login with VMONE Public IP address
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/Dux33mi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ 
+- Within your VMONE, Install Wireshark
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/93V67mo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
