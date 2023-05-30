@@ -113,21 +113,11 @@ In this project, we observe various network traffic to and from Azure Virtual Ma
 
 <p>
 
-![thisismyimage](https://github.com/ELIZABETHONAS/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/IMG_0097.jpeg?raw=true)
+![thisismyimage](https://github.com/ELIZABETHONAS/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/IMG_0099.png?raw=true)
 </p>
 <p>
   
-- Open Wireshark and filter for ICMP traffic only
-</p>
-<br />
-
-<p>
-  
-![thisismyimage]()
-</p>
-<p>
-  
-- Open Wireshark and filter for ICMP traffic only
+- Open Power Shell or command line
 </p>
 <br />
 
@@ -143,7 +133,7 @@ In this project, we observe various network traffic to and from Azure Virtual Ma
 
 <p> 
   
-![thisismyimage]() 
+![thisismyimage](https://github.com/ELIZABETHONAS/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/IMG_0104.jpeg?raw=true) 
 </p>
 <p>
   
@@ -153,28 +143,30 @@ In this project, we observe various network traffic to and from Azure Virtual Ma
 
 <p>
 
-![thisismyimage]()
+![thisismyimage](https://github.com/ELIZABETHONAS/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/IMG_0102.jpeg?raw=true)
 </p>
 <p>
  
-- From The Windows 10 VM/ VMONE, open command line or PowerShell and attempt to ping a public website (such as www.google.com) and observe the traffic in WireShark
+- From The Windows 10 VM/ VMONE, through the command line or PowerShell and attempt to ping a public website (such as www.google.com) and observe the traffic in WireShark
 </p>
 <br />
 
 <p>
   
-![thisismyimage]()
+![thisismyimage](https://github.com/ELIZABETHONAS/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/IMG_0108.jpeg?raw=true)
+![thisismyimage](https://github.com/ELIZABETHONAS/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/IMG_0107.jpeg?raw=true)
 </p>
 <p>
  
 - Initiate a perpetual/non-stop ping from your VMONE to your Ubuntu VM
-  - Open the Network Security Group your VMTWO is using and disable incoming (inbound) ICMP traffic
+  - Open the Network Security Group on VMTWO and disable incoming (inbound) ICMP traffic
 </p>
 <br />
     
 <p>
 
-![thisismyimage]()
+![thisismyimage](https://github.com/ELIZABETHONAS/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/IMG_0109.jpeg?raw=true)
+![thisismyimage](https://github.com/ELIZABETHONAS/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/IMG_0111.jpeg?raw=true)
 </p>
 <p>
 
@@ -184,8 +176,8 @@ In this project, we observe various network traffic to and from Azure Virtual Ma
 
 <p>
   
-![thisismyimage]()
-<img src="https://imgur.com/sCAJnlW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![thisismyimage](https://github.com/ELIZABETHONAS/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/IMG_0112.jpeg?raw=true)
+![thisismyimage](https://github.com/ELIZABETHONAS/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/IMG_0113.jpeg?raw=true)
 </p>
 <p>
  
@@ -196,9 +188,9 @@ In this project, we observe various network traffic to and from Azure Virtual Ma
 <br />
 
 <p>
-<img src="https://imgur.com/zCYu0dA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-<img src="https://imgur.com/Nvana09.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-<img src="https://imgur.com/6VkdcCu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![thisismyimage](https://github.com/ELIZABETHONAS/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/IMG_0114.jpeg?raw=true)
+![thisismyimage](https://github.com/ELIZABETHONAS/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/IMG_0115.jpeg?raw=true)
 </p>
 <p>
 
@@ -211,7 +203,8 @@ In this project, we observe various network traffic to and from Azure Virtual Ma
 <br />
 
 <p>
-<img src="https://imgur.com/i2rTBot.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![thisismyimage](https://github.com/ELIZABETHONAS/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/IMG_0117.jpeg?raw=true)
+![thisismyimage](https://github.com/ELIZABETHONAS/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/IMG_0118.jpeg?raw=true)
 </p>
 <p>
  
