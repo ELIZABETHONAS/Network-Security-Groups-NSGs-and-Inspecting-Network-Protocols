@@ -116,9 +116,38 @@ In this project, we observe various network traffic to and from Azure Virtual Ma
 ![thisismyimage](https://github.com/ELIZABETHONAS/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/IMG_0097.jpeg?raw=true)
 </p>
 <p>
+  
+- Open Wireshark and filter for ICMP traffic only
+</p>
+<br />
+
+<p>
+  
+![thisismyimage]()
+</p>
+<p>
+  
+- Open Wireshark and filter for ICMP traffic only
+</p>
+<br />
+
+<p>
+  
+![thisismyimage](https://github.com/ELIZABETHONAS/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/IMG_0101.jpeg?raw=true)
+</p>
+<p>
  
 - Retrieve the private IP address of the VMTWO and attempt to ping it from within VMONE
-  - Observe ping requests and replies within WireShark
+</p>
+<br />
+
+<p> 
+  
+![thisismyimage]() 
+</p>
+<p>
+  
+- Observe ping requests and replies within WireShark
 </p>
 <br />
 
@@ -154,7 +183,8 @@ In this project, we observe various network traffic to and from Azure Virtual Ma
 <br />
 
 <p>
-<img src="https://imgur.com/Yqm96Ow.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![thisismyimage]()
 <img src="https://imgur.com/sCAJnlW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
