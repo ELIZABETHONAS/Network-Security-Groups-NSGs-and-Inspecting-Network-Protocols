@@ -203,6 +203,7 @@ In this project, we observe various network traffic to and from Azure Virtual Ma
 <br />
 
 <p>
+  
 ![thisismyimage](https://github.com/ELIZABETHONAS/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/IMG_0117.jpeg?raw=true)
 ![thisismyimage](https://github.com/ELIZABETHONAS/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/IMG_0118.jpeg?raw=true)
 </p>
