@@ -213,5 +213,6 @@ In this project, we observe various network traffic to and from Azure Virtual Ma
  - Back in Wireshark, filter for DHCP traffic only
  - From VMONE, attempt to issue your VM a new IP address from the command line (ipconfig /renew)
  - Observe the DHCP traffic appearing in WireShark
+ - The End
 </p>
 <br />
