@@ -11,7 +11,7 @@ In this project, we observe various network traffic to and from Azure Virtual Ma
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Various Command-Line Tools
-- Various Network Protocols (SSH, RDP, HTTP/S, ICMP)
+- Various Network Protocols (SSH, RDP, DHCP, ICMP)
 - Wireshark (Protocol Analyzer)
 - Power Shell
 
